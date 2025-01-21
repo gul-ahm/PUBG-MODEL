@@ -66,7 +66,7 @@ The model achieved:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pubg-game-prediction.git
+   git clone https://github.com/gul-ahm/pubg-game-prediction.git
    ```
 2. Install the required dependencies:
    ```bash
