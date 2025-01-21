@@ -12,6 +12,7 @@ PUBG is one of the most popular battle royale games, with millions of active pla
 
 ## Dataset
 The dataset includes detailed player statistics, such as:
+https://drive.google.com/file/d/1ZuDsAjmrVrLuNGPktOOqQtY4IArszRYh/view?usp=sharing
 - **Damage Dealt**: Total damage inflicted on opponents.
 - **Kill Count**: Number of players eliminated.
 - **Walk Distance**: Total distance traveled on foot.
